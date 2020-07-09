@@ -1,0 +1,24 @@
+{
+    "id": "910261B6",
+    "path": "D:/Rfiles/sig2.2/R/load_packages.R",
+    "project_path": "R/load_packages.R",
+    "type": "r_source",
+    "hash": "3153302879",
+    "contents": "",
+    "dirty": false,
+    "created": 1594175631434.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "cursorPosition": "1,18",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1555911968,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1555911968,
+    "read_only": false,
+    "read_only_alternatives": []
+}
